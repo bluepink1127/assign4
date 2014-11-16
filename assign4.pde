@@ -438,7 +438,7 @@ void reset() {
   countBulletFrame = 30;
   bulletNum = 0;
   /*--------Init Variable Here---------*/
-
+  ship.life= 3;
   laserNum = 0;
 
   /*-----------Call Make Alien Function--------*/
